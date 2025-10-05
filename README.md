@@ -8,7 +8,7 @@ Code and documentation comes in Jupyter notebook files (.ipynb), or directly in 
 
 The repository will be added to during the running of the module, both to correct any mistakes and also to add new material including new files. Therefore please ensure you keep your local copies up to date with any changes.
 
-Since you will want to make your own changes locally, the standard method for keeping things updated is to have two git remotes associated with the repository: your own private one, and the original one. If you wish to do this, please take the following steps after creating an empty private repository on https://github.coventry.ac.uk
+Since you will want to make your own changes locally, the standard method for keeping things updated is to have two git remotes associated with the repository: your own private one, and the original one. If you wish to do this, please take the following steps after creating an empty private repository on https://github.com/Pramod645/Mechine-Learning-Algorithms
 
 ```bash
 # clone to a new directory
