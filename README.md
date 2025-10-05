@@ -1,4 +1,4 @@
-# KPIM24COM Machine Learning and Computer Vision
+# Machine Learning and Computer Vision
 
 This repository contains the code examples you will work on during lectures and labs and afterwards when you are working on your assignments.
 
